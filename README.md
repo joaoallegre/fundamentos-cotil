@@ -12,3 +12,14 @@ Sou estudante do ensino médio na escola Liceu Portinari de Ensino Médio e esto
 - Pescar;
 - Frio e calculista.
 - [https://pt.wikipedia.org/wiki/Pesca]
+
+## Meu Primeiro Programa
+Esse é um código clássico em linguagem C, usado para aprender a base da programação, "Hello, World!
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
